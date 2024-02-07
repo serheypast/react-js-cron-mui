@@ -246,5 +246,5 @@ CronProps {
 
 ## License
 
-MIT © [levyitay](https://github.com/levyitay)
+MIT © [serheypast](https://github.com/serheypast)
   
