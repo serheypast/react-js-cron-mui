@@ -19,7 +19,7 @@ export default function CustomSelect(props: CustomSelectProps) {
     clockFormat,
     optionsList,
     unit,
-    ...selectProps,
+    ...selectProps
   } = props
 
   const stringValue = useMemo(() => {
