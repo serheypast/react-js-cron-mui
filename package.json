@@ -1,6 +1,6 @@
 {
   "name": "react-js-cron-mui-up",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A React cron editor with Material UI a forked repo from Xavier Rutayisire (https://github.com/xrutayisire/react-js-cron)",
   "author": "Sergey Pastushenko (https://github.com/serheypast/)",
   "license": "MIT",
@@ -39,7 +39,6 @@
     "prettier": "prettier --write 'src/**/*.{ts?(x),css}'"
   },
   "peerDependencies": {
-    "@fontsource/roboto": "^5.0.1",
     "@material-ui/core": ">=4.0.0",
     "react": ">=16.8.0",
     "react-dom": ">=16.8.0"
